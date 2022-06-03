@@ -4,7 +4,7 @@ function rece(){
     method: 'GET',
     headers: {
       'X-RapidAPI-Host': 'crypto-news-live3.p.rapidapi.com',
-      'X-RapidAPI-Key': '98f139625emsh4c9f7b4f0e29f81p1553dcjsndbb273a68cba'
+      'X-RapidAPI-Key': '98f13962dcjsndbb273a68cba' // API is wrong , you need to get a new one from the host site.
     }
   };
   
